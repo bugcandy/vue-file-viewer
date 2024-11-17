@@ -3770,10 +3770,10 @@ doctrine@^3.0.0:
   dependencies:
     esutils "^2.0.2"
 
-docx-preview@^0.1.11:
-  version "0.1.14"
-  resolved "https://registry.npmmirror.com/docx-preview/-/docx-preview-0.1.14.tgz#1fd68b6bef8962fa5d01b4e9ba26dd3b2b7ee884"
-  integrity sha512-AoMAAEPG7JvI8g68Yti7v8QyzvfLBoQ9bcd/Hn0IkBqtj61kHWN983be5NGrw7m3LYNzW/NZbxv5KbVmyV018g==
+docx-preview@^0.3.2:
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/docx-preview/-/docx-preview-0.3.3.tgz#e6aef5ff0af5da5c4f276fb1e9ba838d89cebedc"
+  integrity sha512-vg0bjmp5Q/hWYgalvVsnOOdqKlSBvgzdbrqX8pKw4KuTH8FkX2FIs21w10HZdx6ZhApmMbgfae+lOXjdCSsc8A==
   dependencies:
     jszip ">=3.0.0"
 
@@ -8371,6 +8371,8 @@ rxjs@^6.4.0, rxjs@^6.6.0:
   version "6.6.7"
   resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.6.7.tgz#90ac018acabf491bf65044235d5863c4dab804c9"
   integrity sha512-hTdwr+7yYNIT5n4AMYp85KA6yw2Va0FLa3Rguvbpa4W3I5xynaBZo41cM3XM+4Q6fRMj3sBYIR1VAmZMXYJvRQ==
+  dependencies:
+    tslib "^1.9.0"
 
 safe-buffer@5.1.2, safe-buffer@~5.1.0, safe-buffer@~5.1.1:
   version "5.1.2"
